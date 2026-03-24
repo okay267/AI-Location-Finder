@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+opencv-python-headless
+librosa
+googlemaps
+folium
+streamlit-folium
