@@ -6,3 +6,4 @@ librosa
 googlemaps
 folium
 streamlit-folium
+google-generativeai
