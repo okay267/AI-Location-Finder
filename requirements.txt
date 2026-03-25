@@ -1,9 +1,7 @@
 streamlit
-pandas
-numpy
-opencv-python-headless
-librosa
-googlemaps
+google-maps-services-python
 folium
 streamlit-folium
-
+opencv-python-headless
+librosa
+numpy
